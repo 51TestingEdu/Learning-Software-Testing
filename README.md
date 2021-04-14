@@ -3,6 +3,7 @@
 
 顺带宣传一下我的QQ号，软件测试相关内容，欢迎骚扰！
 
+
 以下是文件目录：
 
 
@@ -36,10 +37,12 @@
 </ul>
 
 
-<h1>软件测试进阶：</h1>
+<h1>大厂软件测试沙龙资料：</h1>
 <ul>
-<li>1. 性能测试入门(17课时)   <a href="pan.baidu.com/s/1HVSzSxM44irjixSX-DuYjw">百度网盘链接</a>，提取码：</li>
-<li>2. 轻松搞定接口测试（16课时）  <a href="pan.baidu.com/s/1HVSzSxM44irjixSX-DuYjw">百度网盘链接</a>，提取码：</li>
-<li>3. Web渗透测试课程（10课时）  <a href="pan.baidu.com/s/1HVSzSxM44irjixSX-DuYjw">百度网盘链接</a>，提取码：</li>
-<li>4. Jmeter实现RabbitMQ的性能测试课程（18课时）  <a href="pan.baidu.com/s/1HVSzSxM44irjixSX-DuYjw">百度网盘链接</a>，提取码：</li>
-  </ul>
+<li>1. 奇虎360技术沙龙资料   <a href="https://pan.baidu.com/s/1vngEkSjm4vbbnlWHOFPJ_g">百度网盘链接</a>，提取码：4gw6</li>
+<li>2. 知乎软件测试沙龙PPT  <a href="https://pan.baidu.com/s/13URXwsD1IXxQ6LV_1e_I8g">百度网盘链接</a>，提取码：jk6p</li>
+<li>3. 20190427广州测试沙龙  <a href="https://pan.baidu.com/s/1Dt2cZBRVGcv56yso4drVUA">百度网盘链接</a>，提取码：n8ru</li>
+<li>4. 阿里巴巴技术嘉年华资料  <a href="https://pan.baidu.com/s/193LUY6Leo35HxcrDZLNf8g">百度网盘链接</a>，提取码：dhhx</li>
+<li>5. 美团点评2019测试技术资料  <a href="https://pan.baidu.com/s/1VfIIuU1ns6GNZvvy_Q7K0Q">百度网盘链接</a>，提取码：62sc</li>
+<li>6. 携程测试沙龙技术资料  <a href="https://pan.baidu.com/s/19cPQFcINaXtoqSYQP7sKJw">百度网盘链接</a>，提取码：6vcr</li>
+</ul>
