@@ -10,9 +10,9 @@
 
 <h1>软件测试学习路径及讲义：</h1>
 <ul>
-<li>1. 软件测试工程师知识图谱   <a href="https://pan.baidu.com/s/1b4VwAtK0fjNFWb7tKviK0w">百度网盘链接</a>，提取码：xgjr</li>
-<li>2. 软件测试基础讲义  <a href="https://pan.baidu.com/s/1VIBPnYGvMCEouPRXVRiFNw">百度网盘链接</a>，提取码：sgc2</li>
-<li>3. 软件测试学习路径  <a href="https://pan.baidu.com/s/1IUd3oz5EUrqXZsTgnDclvA">百度网盘链接</a>，提取码：137d</li>
+<li>1. 软件测试工程师知识图谱   <a href="https://pan.baidu.com/s/1njZyoaxbkWmEDSRwv1Wj2w">百度网盘链接</a>，提取码：m19k</li>
+<li>2. 软件测试基础讲义  <a href="https://pan.baidu.com/s/1-O22dJyyW6YFzthCBLJxHw">百度网盘链接</a>，提取码：63xa</li>
+<li>3. 软件测试学习路径  <a href="https://pan.baidu.com/s/1qvyjrMDNuY4v3w6soZ-VjA">百度网盘链接</a>，提取码：ymvo</li>
 </ul>
 
 <h1>软件测试从入门到提升：</h1>
