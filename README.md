@@ -2,18 +2,17 @@
 软件测试70G资料包，包含了公开课程、视频讲义、软件工具以及大厂软件测试面试宝典，软件测试学习，从这里开始。
 
 顺带宣传一下我的QQ号，软件测试相关内容，欢迎骚扰！
-
+<img src="/51TestingEdu/Learning-Software-Testing/blob/main/微信图片_20210413171542.jpg"/>
 
 以下是文件目录：
 
 
-<h1>软件测试预备：</h1>
+<h1>软件测试学习路径及讲义：</h1>
 <ul>
-  <li>1. 性能测试入门(17课时)   <a href="pan.baidu.com/s/1HVSzSxM44irjixSX-DuYjw">百度网盘链接</a>，提取码：</li>
-<li>2. 轻松搞定接口测试（16课时）  <a href="pan.baidu.com/s/1HVSzSxM44irjixSX-DuYjw">百度网盘链接</a>，提取码：</li>
-<li>3. Web渗透测试课程（10课时）  <a href="pan.baidu.com/s/1HVSzSxM44irjixSX-DuYjw">百度网盘链接</a>，提取码：</li>
-<li>4. Jmeter实现RabbitMQ的性能测试课程（18课时）  <a href="pan.baidu.com/s/1HVSzSxM44irjixSX-DuYjw">百度网盘链接</a>，提取码：</li>
-  </ul>
+<li>1. 软件测试工程师知识图谱   <a href="https://pan.baidu.com/s/1b4VwAtK0fjNFWb7tKviK0w">百度网盘链接</a>，提取码：xgjr</li>
+<li>2. 软件测试基础讲义  <a href="https://pan.baidu.com/s/1VIBPnYGvMCEouPRXVRiFNw">百度网盘链接</a>，提取码：sgc2</li>
+<li>3. 软件测试学习路径  <a href="https://pan.baidu.com/s/1IUd3oz5EUrqXZsTgnDclvA">百度网盘链接</a>，提取码：137d</li>
+</ul>
 
 <h1>软件测试从入门到提升：</h1>
 <ul>
@@ -35,6 +34,12 @@
 <li>16. ST  <a href="https://pan.baidu.com/s/1P3BLIzEDyZD18u96msAKGw">百度网盘链接</a>，提取码：9cqv </li>
 <li>17. UT  <a href="https://pan.baidu.com/s/1gbfZG9vov6viDs42K-Qdww">百度网盘链接</a>，提取码：yutb </li>
 </ul>
+
+<h1>职场与面试</h1>
+<ul>
+  <li>1. 软件测试技术类面试题集锦<a href="https://pan.baidu.com/s/1QlHz694rnP_JU3AhSZkcXw">百度网盘链接</a>，提取码：qn0o</li>
+  <li>2. 218套求职简历精华模板<a href="https://pan.baidu.com/s/1WJBcmeKG56k_C9PubTJNYg">百度网盘链接</a>，提取码：zb37</li>
+  </ul>
 
 
 <h1>大厂软件测试沙龙资料：</h1>
