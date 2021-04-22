@@ -3,7 +3,7 @@
 
 为保证连接的持久性，以下压缩包均添加了密码，可以<b>扫描添加下方微信，回复888，获取解压密码</b></br>
 </br>
-<img src="https://github.com/51TestingEdu/Learning-Software-Testing/blob/main/WechatQR.jpg" style="max-width:50%;" alt="图片没显示的时候，微信搜索”google167“也可以找得到" />
+<img src="https://github.com/51TestingEdu/Learning-Software-Testing/blob/main/Wechat_QR.jpg" alt="图片没显示的时候，微信搜索”google167“也可以找得到" />
 
 以下是文件目录：
 
