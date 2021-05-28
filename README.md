@@ -1,9 +1,8 @@
 # Learning-Software-Testing
 软件测试70G资料包，包含了公开课程、视频讲义、软件工具以及大厂软件测试面试宝典，软件测试学习，从这里开始。
 
-为保证连接的持久性，以下压缩包均添加了密码，可以<b>扫描添加下方微信，回复888，获取解压密码</b></br>
-</br>
-<img src="https://github.com/51TestingEdu/Learning-Software-Testing/blob/main/Wechat_QR.jpg" alt="图片没显示的时候，微信搜索”google167“也可以找得到" />
+为保证连接的持久性，以下压缩包均添加了密码，<a href="http://kbyx0011.mikecrm.com/qCumvim">点击这里获取解压密码</a></br>
+
 
 以下是文件目录：
 
