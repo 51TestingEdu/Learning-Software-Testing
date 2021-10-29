@@ -5,17 +5,11 @@
 
 
 以下是文件目录：
-# 以下是文件目录：
-
-### 软件测试学习路径及讲义：
-1\.软件测试工程师知识图谱 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
-
 <h1>软件测试学习路径及讲义：</h1>
 <ul>
-1\.软件测试工程师知识图谱 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
-<li>1. 软件测试工程师知识图谱   <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a>，提取码：m19k</li>
-<li>2. 软件测试基础讲义  <a href="https://pan.baidu.com/s/1-O22dJyyW6YFzthCBLJxHw">百度网盘链接</a>，提取码：63xa</li>
-<li>3. 软件测试学习路径  <a href="https://pan.baidu.com/s/1qvyjrMDNuY4v3w6soZ-VjA">百度网盘链接</a>，提取码：ymvo</li>
+<li>1. 软件测试工程师知识图谱   <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
+<li>2. 软件测试基础讲义  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a>，提取码：63xa</li>
+<li>3. 软件测试学习路径  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a>，提取码：ymvo</li>
 </ul>
 
 <h1>软件测试从入门到提升：</h1>
