@@ -5,7 +5,10 @@
 
 
 以下是文件目录：
+# 以下是文件目录：
 
+### 软件测试学习路径及讲义：
+1\.软件测试工程师知识图谱 [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)，提取码：[点击获取](http://kbyx0011.mikecrm.com/qCumvim)
 
 <h1>软件测试学习路径及讲义：</h1>
 <ul>
