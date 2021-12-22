@@ -1,71 +1,71 @@
 # Learning-Software-Testing
 软件测试70G资料包，包含了公开课程、视频讲义、软件工具以及大厂软件测试面试宝典，软件测试学习，从这里开始。
 
-为保证连接的持久性，以下压缩包均添加了密码，+❤：T4219387214 获取解压密码
+私信我获取！
 
 
 以下是文件目录：
 <h1>软件测试学习路径及讲义：</h1>
 <ul>
-<li>1. 软件测试工程师知识图谱   <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>2. 软件测试基础讲义  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>3. 软件测试学习路径  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
+<li>1. 软件测试工程师知识图谱  
+<li>2. 软件测试基础讲义 
+<li>3. 软件测试学习路径  
 </ul>
 
 <h1>软件测试从入门到提升：</h1>
 <ul>
-<li>1. 测试基础   <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>2. 软件需求  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>3. 测试过程  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>4. 通用测试用例  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>5. 测试方法   <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>6. 测试用例设计  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>7. 测试覆盖率  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>8. 缺陷管理  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>9. 项目实践  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>10. IT <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>11. Oracle  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>12. Web测试  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>13. Jmeter  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>14. LoadRunner  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>15. qtp  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>16. ST  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>17. UT  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
+<li>1. 测试基础  
+<li>2. 软件需求
+<li>3. 测试过程
+<li>4. 通用测试用例 
+<li>5. 测试方法 
+<li>6. 测试用例设计 
+<li>7. 测试覆盖率
+<li>8. 缺陷管理 
+<li>9. 项目实践
+<li>10. IT 
+<li>11. Oracle  
+<li>12. Web测试 
+<li>13. Jmeter 
+<li>14. LoadRunner 
+<li>15. qtp  
+<li>16. ST 
+<li>17. UT 
 </ul>
 
 <h1>职场与面试</h1>
 <ul>
-  <li>1. 软件测试技术类面试题集锦<a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-  <li>2. 218套求职简历精华模板<a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
+  <li>1. 软件测试技术类面试题集锦
+  <li>2. 218套求职简历精华模板
   </ul>
 
 
 <h1>大厂软件测试沙龙资料：</h1>
 <ul>
-<li>1. 奇虎360技术沙龙资料   <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>2. 知乎软件测试沙龙PPT  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>3. 20190427广州测试沙龙  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>4. 阿里巴巴技术嘉年华资料  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>5. 美团点评2019测试技术资料  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>6. 携程测试沙龙技术资料  <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
+<li>1. 奇虎360技术沙龙资料
+<li>2. 知乎软件测试沙龙PPT
+<li>3. 20190427广州测试沙龙
+<li>4. 阿里巴巴技术嘉年华资料 
+<li>5. 美团点评2019测试技术资料
+<li>6. 携程测试沙龙技术资料
 </ul>
 
 <h1>软件测试工程师必备电子书：</h1>
 <ul>
-<li>1. 《Python测试之道》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>2. 《google软件测试之道》<a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>3. 《JAVA自动化测试实战》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>4. 《mysql必知必会》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>5. 《Python自动化测试实战》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>6. 《QTP自动化测试实践》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>7. 《robot_framework自动化测试》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li> 
-<li>8. 《大话移动APP测试》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>9. 《计算机软件测试》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>10. 《敏捷软件测试》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>11. 《全程软件测试》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>12. 《软件测试工程师面试指导》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>13. 《性能测试从零开始》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
-<li>14. 《软件测试基础》 <a href="https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg">百度网盘链接</a></li>
+<li>1. 《Python测试之道》
+<li>2. 《google软件测试之道》
+<li>3. 《JAVA自动化测试实战》
+<li>4. 《mysql必知必会》
+<li>5. 《Python自动化测试实战》
+<li>6. 《QTP自动化测试实践》
+<li>7. 《robot_framework自动化测试》
+<li>8. 《大话移动APP测试》
+<li>9. 《计算机软件测试》
+<li>10. 《敏捷软件测试》 
+<li>11. 《全程软件测试》
+<li>12. 《软件测试工程师面试指导》
+<li>13. 《性能测试从零开始》
+<li>14. 《软件测试基础》
 </ul>
 
 <h1>关于培训</h1>
@@ -122,5 +122,3 @@
 <p>如果你一直以来学习能力都很平庸，也没那么自律，那我推荐你要么去培训机构，要么就直接放弃转行软件测试这个念头。</p>
 
 <p>当然，我这些话听着难听，很多人也不愿意相信，觉得我是在为了恰饭洗脑，那么没关系，继续坚持自己的选择，我也衷心祝福你们能够成功完成学业，完成心仪的Offer。</p>
-
-<p>如果你看了我这段话后改变主意了，欢迎你来添加我的QQ（文章的开始有二维码），我会给你详细耐心的解释：我们博为峰是如何解决这8大问题的。</p>
